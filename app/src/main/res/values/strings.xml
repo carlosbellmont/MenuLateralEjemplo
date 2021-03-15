@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenuLateralEjemplo</string>
+    <string name="menu_1">Menu Uno</string>
+    <string name="menu_2">Menu Dos</string>
+    <string name="menu_3">Menu Tres</string>
+    <string name="main_text">Un texto largo para que sea vea por el lateral del drawer</string>
+</resources>
